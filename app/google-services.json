@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1035127635958",
+    "firebase_url": "https://mybitm-99727.firebaseio.com",
+    "project_id": "mybitm-99727",
+    "storage_bucket": "mybitm-99727.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035127635958:android:92a58ecf436c86f9",
+        "android_client_info": {
+          "package_name": "com.bitm.sagar.mybitm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035127635958-rrigo4j8hvom0fo352f6j2qjhih2v1aq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitm.sagar.mybitm",
+            "certificate_hash": "fb01dbc12fe43f9ba3767d2c70bc38c66eacce1c"
+          }
+        },
+        {
+          "client_id": "1035127635958-e0el0cgk0dljsfmst1vg5je4mr0q6grf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkyQ2Um_a1QQMe9MUowBuOB0EE8TqBP0g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035127635958-e0el0cgk0dljsfmst1vg5je4mr0q6grf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
